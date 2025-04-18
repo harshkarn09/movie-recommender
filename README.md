@@ -11,20 +11,7 @@ Features
 - Data preprocessing and merging for accurate recommendations.
 - User-friendly recommendations based on input movie titles.
 
- Installation
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-repo/movie-recommender.git
-   ```
-2. Navigate to the project folder:
-   ```bash
-   cd movie-recommender
-   ```
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
+ 
 
  Usage
 
